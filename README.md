@@ -25,7 +25,7 @@
 
 1. 克隆代码仓库：
    ```bash
-   git clone https://github.com/Zlkcyber/streamAi.git
+   git clone https://github.com/qiyan758/streamAi.git
    cd streamAi
    ```
 
